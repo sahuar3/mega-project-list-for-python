@@ -1,6 +1,8 @@
 """ This program givesthe value of pi to Nth decimal place
 where N is user-defined
 
+Source: Rosetta Code 
+
 determine the limit to which we can go
 
 """
